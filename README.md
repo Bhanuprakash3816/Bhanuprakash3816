@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bhanuprakash3816
+- 👋 Hi, I’m @Bhanuprakash
 - 👀 I’m interested in webdevelopment and mobile development
 - 🌱 I’m currently learning angular,react and dotnet core
 - 💞️ I’m looking to collaborate on ...
